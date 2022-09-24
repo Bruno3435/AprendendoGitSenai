@@ -3,8 +3,8 @@
 
 ## Comandos basicos utilizados no Git
 ### Repositorio Remoto
-- ***git push**  é utilizado para baixar o arquivo*
-- ***git pull** é utilizado para enviat o arquivo na nuvem*
+- ***git push**  é utilizado para enviar o arquivo*
+- ***git pull** é utilizado para baixar o arquivo na nuvem*
 - ***git remote** é tilizado para direcionar o repositorio remoto*
 
 ### Repositorio Local
