@@ -8,9 +8,9 @@
 - ***git remote** é tilizado para direcionar o repositorio remoto*
 
 ### Repositorio Local
--  ***git config --global user.name""** *é Utilizado para Escrever o seu Nome*
--  ***git config--global user.email""** *é utilizado para colocar po seu e-mail*
--  ***git init** *é utilizado para iniciar o projeto*  
+-  ***git add .** *é Utilizado para adicionar as alteraçoes de um commit*
+-  ***git config** *é utilizado para fazer alteraçoes de um email e do nome*
+-  ***git init** *é utilizado para iniciar o arquivo,Uma vez iniciado não precisa mais de inicialização*  
 
 ### Branchs
 - ***git branch -M main** é utilizado para preparar todo arquivo para ser jogado na nuvem*
